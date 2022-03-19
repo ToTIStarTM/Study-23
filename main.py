@@ -1,2 +1,2 @@
-import os
-os.system('python function_20231145.py')
+print('python function_20373083')
+
