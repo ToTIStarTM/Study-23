@@ -1,2 +1,1 @@
-print('python function_20373083')
-
+﻿print('python function_20373083')
