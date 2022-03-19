@@ -1,0 +1,1 @@
+print('My student_id: Ñ§ºÅ')
